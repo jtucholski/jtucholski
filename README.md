@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-![Placeholder Image](https://via.placeholder.com/600x150)
+![](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/mountains.jpg)
 
 
 #### ⭐️ &nbsp;  My Favorite Repositories
