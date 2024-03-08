@@ -17,7 +17,7 @@
 
 #### 🌱  &nbsp; Packages I've Published
 
-* [CommandLineMenuFramework on NuGet](https://www.nuget.org/packages/CommandLineMenuFramework/) (formerly [ConsoleMenuFramework](https://www.nuget.org/packages/ConsoleMenuFramework))
+1️⃣ &nbsp; [CommandLineMenuFramework on NuGet](https://www.nuget.org/packages/CommandLineMenuFramework/) (formerly [ConsoleMenuFramework](https://www.nuget.org/packages/ConsoleMenuFramework))
 
 #### 📫 &nbsp;  How to reach me
 
