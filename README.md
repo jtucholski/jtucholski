@@ -15,25 +15,16 @@
 
 5️⃣ &nbsp; [JSON Server](https://github.com/typicode/json-server) - Stand up a simple REST API without the backend.
 
-#### 🌱  &nbsp; What I'm Learning
+#### 🌱  &nbsp; Packages I've Published
 
-* Headless CMS
-* WebRTC
-* Firebase
-
-#### 💬  &nbsp; Ask Me For Help With
-
-* CSS (Grid, Flexbox, and Animations)
-* HTML Canvas API
-* Web Sockets
-* C#, ASP.NET, MS SQL
+* [CommandLineMenuFramework on NuGet](https://www.nuget.org/packages/CommandLineMenuFramework/) (formerly [ConsoleMenuFramework](https://www.nuget.org/packages/ConsoleMenuFramework))
 
 #### 📫 &nbsp;  How to reach me
 
 You can reach me by email (in my profile) or through these other channels!
 
-[![Twitter](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/twitter.png)](https://www.twitter.com/jtucholski)
 [![LinkedIn](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/linkedin.png)](https://www.linkedin.com/in/joshtucholski/)
+[![Twitter](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/twitter.png)](https://www.twitter.com/jtucholski)
 [![YouTube](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/youtube.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
