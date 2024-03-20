@@ -20,18 +20,6 @@
 
 
 
-#### 📫 &nbsp;  How to reach me
-
-You can reach me by email (in my profile) or through these other channels!
-
-[![LinkedIn](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/linkedin.png)](https://www.linkedin.com/in/joshtucholski/)
-[![Twitter](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/twitter.png)](https://www.twitter.com/jtucholski)
-[![YouTube](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/youtube.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-#### Credits
-
-Icon credits go to [Maninder Kaur](https://iconscout.com/contributors/maninderkaur)
 
 
 
