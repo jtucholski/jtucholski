@@ -2,6 +2,9 @@
 
 ![](https://raw.githubusercontent.com/jtucholski/jtucholski/master/images/mountains.jpg)
 
+#### 🌱  &nbsp; Packages I've Published
+
+1️⃣ &nbsp; [CommandLineMenuFramework on NuGet](https://www.nuget.org/packages/CommandLineMenuFramework/) (formerly [ConsoleMenuFramework](https://www.nuget.org/packages/ConsoleMenuFramework))
 
 #### ⭐️ &nbsp;  My Favorite Repositories
 
@@ -15,9 +18,7 @@
 
 5️⃣ &nbsp; [JSON Server](https://github.com/typicode/json-server) - Stand up a simple REST API without the backend.
 
-#### 🌱  &nbsp; Packages I've Published
 
-1️⃣ &nbsp; [CommandLineMenuFramework on NuGet](https://www.nuget.org/packages/CommandLineMenuFramework/) (formerly [ConsoleMenuFramework](https://www.nuget.org/packages/ConsoleMenuFramework))
 
 #### 📫 &nbsp;  How to reach me
 
